@@ -45,7 +45,7 @@ print(tca)
 tca.plot(kind='bar')
 plt.show()
 ```
-![total de contratos por área]("")
+!Total de Funcionários por Área.png](imagens/Total de Funcionários por Área.png.png)
 
 Depois, obtemos o total de funcionários por área e também exibimos em um gráfico de barras.
 ```
@@ -54,7 +54,7 @@ print(tfa)
 tfa.plot(kind='bar')
 plt.show()
 ```
-![total de funcionários por área]("")
+![total de contratos por área](imagens/total_de_contratos_por_area.png)
 
 Além disso, calculamos o ticket médio mensal dos clientes. Essa métrica é importante para entender o valor médio gasto por cliente na empresa.
 ```
