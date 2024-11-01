@@ -45,7 +45,7 @@ print(tca)
 tca.plot(kind='bar')
 plt.show()
 ```
-!Total de Funcionários por Área.png](imagens/Total de Funcionários por Área.png.png)
+![Total de Funcionários por Área.png](imagens/Total_de_Funcionários_por_Área.png)
 
 Depois, obtemos o total de funcionários por área e também exibimos em um gráfico de barras.
 ```
